@@ -412,7 +412,7 @@ nav .fa-solid{
         height: 3px;
         background: #ffffff;
         position: absolute;
-        left: 1px;
+        left: 0;
         bottom: -7px;
         transition: 0.5s;
     }

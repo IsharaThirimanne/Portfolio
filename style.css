@@ -420,6 +420,9 @@ nav .fa-solid{
     nav ul li a:hover::after{
         width: 150%;
     }
+    .layer p{
+        font-size: 10px;
+    }
 }
 
 #msg{

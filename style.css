@@ -29,12 +29,13 @@ body{
 }
 .part1{
     color:#ff004f;
-    font-size: 35px;
+    font-size: 38px;
     font-weight: 800;
 }
 .part2{
     color: #ffffff;
     font-weight: 500;
+    font-size: 23px;
 }
 nav{
     margin-left: auto;
@@ -367,9 +368,20 @@ nav .fa-solid{
         margin-top: 100%;
         font-size: 16px;
     }
+    .part1{
+        color:#ff004f;
+        font-size: 30px;
+        font-weight: 800;
+    }
+    .part2{
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 18px;
+    }
     .header-text h1{
         font-size: 30px;
     }
+
     nav .fa-solid{
         display: block;
         font-size: 25px;
